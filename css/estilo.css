@@ -1,0 +1,15 @@
+.centrado{
+    text-align: center;
+}
+
+.limitar_tamano{
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    background-size: 100% 100%;
+    background: no-repeat;
+}
+
+.separacion{
+    margin-top: 80px;
+}
